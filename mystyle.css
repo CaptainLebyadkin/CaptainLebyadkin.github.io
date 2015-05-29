@@ -34,6 +34,13 @@ a {
     text-decoration: none;
     -webkit-transition: 200ms ease-out 200ms;
 }
+
+form {
+    color: rgb(190,190,190);
+    font: 15px bold arial, sans-serif;
+    -webkit-transition: 200ms ease-out 200ms;
+}
+
 /* mouse over link */
 a:hover {
     color: rgb(230,230,230);
