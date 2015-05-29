@@ -24,7 +24,7 @@ h1 {
     text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
 }
 
-a:link {
+a {
     color: rgb(208,208,208);
     font: 15px bold verdana, sans-serif;
 }
