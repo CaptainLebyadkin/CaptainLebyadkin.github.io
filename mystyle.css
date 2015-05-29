@@ -11,6 +11,9 @@ background-repeat: no-repeat;
 }
 
 p {
+    .nowrap {
+  white-space: nowrap ;
+}
  color: white;   
  font: 15px verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
