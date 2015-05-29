@@ -25,14 +25,14 @@ h1 {
 }
 
 a {
-    color: rgb(208,208,208);
+    color: rgb(190,190,190);
     font: 15px bold verdana, sans-serif;
     text-decoration: none;
-    -webkit-transition: 500ms ease-out 500ms;
+    -webkit-transition: 200ms ease-out 200ms;
 }
 /* mouse over link */
 a:hover {
-    color: rgb(240,240,240);
+    color: rgb(230,230,230);
 }
 
 /* selected link */
