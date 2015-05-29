@@ -28,13 +28,6 @@ h1 {
     text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
 }
 
-a {
-    color: rgb(190,190,190);
-    font: 15px bold verdana, sans-serif;
-    text-decoration: none;
-    -webkit-transition: 200ms ease-out 200ms;
-}
-
 form {
     /* selected link */
     color: rgb(190,190,190);
@@ -42,9 +35,16 @@ form {
     -webkit-transition: 200ms ease-out 200ms;
 }
 
+a {
+    color: rgb(190,190,190);
+    font: 15px bold verdana, sans-serif;
+    text-decoration: none;
+    -webkit-transition: 200ms ease-out 200ms;
+}
+
 /* mouse over link */
 a:hover {
-    color: rgb(230,230,230);
+    color: rgb(240,240,240);
 }
 
 /* selected link */
