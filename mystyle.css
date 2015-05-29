@@ -28,7 +28,7 @@ a {
     color: rgb(208,208,208);
     font: 15px bold verdana, sans-serif;
     text-decoration: none;
-    -webkit-transition: 0s 1s;
+    -webkit-transition: 500ms ease-out 500ms;
 }
 /* mouse over link */
 a:hover {
