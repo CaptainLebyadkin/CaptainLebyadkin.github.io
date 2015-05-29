@@ -1,7 +1,13 @@
+<head>
+
 h1 {
     color: maroon;
     margin-left: 40px;
 } 
+
+body {
+    background-color: linen;
+}
 
 <style>
 .button {
@@ -52,3 +58,4 @@ h1 {
    color: #fff;
    }
 </style>
+</head>
