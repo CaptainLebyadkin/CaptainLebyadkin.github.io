@@ -11,8 +11,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 
 <style>
 
+body {
 h1 {
  color: white;   
+}
 }
 
 .button {
