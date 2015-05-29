@@ -11,6 +11,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 
 h1 {
  color: white;   
+ font: 15px arial, sans-serif;
 }
 
 .button {
