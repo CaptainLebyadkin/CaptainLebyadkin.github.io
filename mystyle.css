@@ -24,9 +24,18 @@ h1 {
     text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
 }
 
-a {
+a:link {
     color: rgb(208,208,208);
     font: 15px bold verdana, sans-serif;
+}
+/* mouse over link */
+a:hover {
+    color: rgb(240,240,240);
+}
+
+/* selected link */
+a:active {
+    color: rgb(255,255,255);
 }
 
 .button {
