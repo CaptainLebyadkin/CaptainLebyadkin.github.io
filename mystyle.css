@@ -36,6 +36,7 @@ a {
 }
 
 form {
+    /* selected link */
     color: rgb(190,190,190);
     font: 15px bold arial, sans-serif;
     -webkit-transition: 200ms ease-out 200ms;
