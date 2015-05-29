@@ -3,7 +3,7 @@
 {
 color: green;
 background-color: orange
-
+}
 .button {
    border: 1px solid #0a3c59;
    background: #3e779d;
@@ -51,5 +51,4 @@ background-color: orange
    background-image: -ms-linear-gradient(top, #3e779d 0%, #65a9d7 100%);
    color: #fff;
    }
-}
 </style>
