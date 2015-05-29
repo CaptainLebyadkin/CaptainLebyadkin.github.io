@@ -1,4 +1,9 @@
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
 
+<style>
 .button {
    border: 1px solid #1f4018;
    background: #569c3e;
@@ -46,4 +51,4 @@
    background-image: -ms-linear-gradient(top, #599c3e 0%, #98d665 100%);
    color: #fff;
    }
-
+</style>
