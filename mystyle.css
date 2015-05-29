@@ -27,6 +27,8 @@ h1 {
 a {
     color: rgb(208,208,208);
     font: 15px bold verdana, sans-serif;
+    text-decoration: none;
+    -webkit-transition: 1s 3s;
 }
 /* mouse over link */
 a:hover {
