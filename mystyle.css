@@ -24,6 +24,10 @@ h1 {
     text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
 }
 
+a {
+    color: #FF0000;
+}
+
 .button {
    border: 1px solid #1f4018;
    background: #569c3e;
