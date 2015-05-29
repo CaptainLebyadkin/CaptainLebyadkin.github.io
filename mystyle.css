@@ -10,8 +10,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 }
 
 h1 {
+    .myElement{
+    text-shadow: rgba(0,0,0,.01) 0 0 1px;
+    }
  color: white;   
- font: 80px bold verdana, sans-serif;
+ font: 70px bold verdana, sans-serif;
 }
 
 .button {
