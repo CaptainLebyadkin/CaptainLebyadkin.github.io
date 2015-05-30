@@ -31,7 +31,7 @@ h1 {
 form {
     /* selected link */
     color: rgb(190,190,190);
-    font: 15px bold verdana, sans-serif;
+    font: 13px bold verdana, sans-serif;
     -webkit-transition: 200ms ease-out 200ms;
 }
 
