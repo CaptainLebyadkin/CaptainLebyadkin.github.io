@@ -33,9 +33,10 @@ Cool technology name:
 </form>
 <br>
 
-<?php 
-$out = shell_exec('ls');
-echo "<pre>$out</pre>";
+
+<?php
+$output = shell_exec('ls -lart');
+echo "<pre>$output</pre>";
 ?>
 
  <a href='#' action="script.php" class='button' onclick="perl make-latex.pl --pdf">Test</a>
