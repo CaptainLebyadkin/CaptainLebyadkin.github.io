@@ -34,7 +34,8 @@ Cool technology name:
 <br>
 
 <?php 
-echo "<pre>hi</pre>";
+$out = shell_exec('ls');
+echo "<pre>$out</pre>";
 ?>
 
  <a href='#' action="script.php" class='button' onclick="perl make-latex.pl --pdf">Test</a>
